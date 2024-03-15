@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://0356pt1hrxnu"]
+
+[node name="Root" type="Node2D"]
+
+[node name="Square" type="Sprite2D" parent="."]
+position = Vector2(0.019, -0.0762)

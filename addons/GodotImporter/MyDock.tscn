@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://o310wa4r8cvh"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+offset_right = 211.0
+offset_bottom = 84.0
+text = "Open Folder
+"
